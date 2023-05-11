@@ -1,5 +1,10 @@
 ion-progress-bar{
 display: none !important;
+visibility: hidden;
+}
+progress{
+display: none !important;
+visibility: hidden;
 }
 .core-progress-text{
 display: none !important;
