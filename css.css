@@ -1,0 +1,5 @@
+.core-progress-bar
+progress,
+.core-progress-text {
+display: none !important;
+}
