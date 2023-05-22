@@ -10,17 +10,8 @@ visibility: hidden;
 display: none !important;
 }
 ion-tab-bar.mainmenu-tabs {
-    /* Background */
-    --core-bottom-tabs-background: yellow;
-    --core-bottom-tabs-background-selected: transparent;
-
-    /* Tab icons */
-    --core-bottom-tabs-color: blue;
-
-    /* Selected tab icon */
-    --core-bottom-tabs-color-selected: green;
-
-    /* Badges */
-    --core-bottom-tabs-badge-text-color: black;
-    --core-bottom-tabs-badge-color: white;
+    background: black;
+    color: black;
+    color-selected: white;
+    background-selected: white;
 }
