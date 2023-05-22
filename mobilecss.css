@@ -10,8 +10,8 @@ visibility: hidden;
 display: none !important;
 }
 ion-tab-bar.mainmenu-tabs {
-    background: black;
-    color: black;
-    color-selected: white;
-    background-selected: white;
+    background: red;
+    color: yellow;
+    color-selected: blue;
+    background-selected: green;
 }
