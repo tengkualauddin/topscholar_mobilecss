@@ -12,9 +12,5 @@ display: none !important;
 ion-tab-bar{
     background: blue;
     background-color: yellow;
-}
-ion-tab-bar.mainmenu-tabs{
-    background: white;
     color: black;
-    background-color: green;
 }
