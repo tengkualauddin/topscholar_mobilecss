@@ -9,8 +9,3 @@ visibility: hidden;
 .core-progress-text{
 display: none !important;
 }
-ion-tab-bar{
-    background: blue;
-    background-color: yellow;
-    color: black;
-}
