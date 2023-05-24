@@ -15,4 +15,4 @@ display: none !important;
 
 [id="page-mod-h5pactivity-report"] dt:nth-child(7), [id="page-mod-h5pactivity-report"] dd:nth-child(8) {display: none; visibility: hidden;} /*individual attempt page*/
 
-.addon-mod_h5pactivity-attempt-result-summary .ion-item:nth-child(4){display: none; visibility: hidden;}
+.addon-mod_h5pactivity-attempt-result-summary ion-item:nth-child(4){display: none; visibility: hidden;}
