@@ -9,3 +9,8 @@ visibility: hidden;
 .core-progress-text{
 display: none !important;
 }
+/*H5P individual attempts and all attempts reports page, doesn't correctly report pass/fail grade, so hiding from report*/
+
+[id="page-mod-h5pactivity-report"] :not(table-striped) th:nth-child(7), [id="page-mod-h5pactivity-report"] :not(table-striped) td:nth-child(7) {display: none; visibility: hidden;} /*all attempts page*/
+
+[id="page-mod-h5pactivity-report"] dt:nth-child(7), [id="page-mod-h5pactivity-report"] dd:nth-child(8) {display: none; visibility: hidden;} /*individual attempt page*/
